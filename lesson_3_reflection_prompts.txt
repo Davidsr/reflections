@@ -11,7 +11,18 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Fork
+    	Es como clonar pero dentro de github con la restriccion que no se pueden hacer push al repositorio desde donde se hace fork.
+    	Se usa para hacer una copia y poder hacer modificaciones, clonar y hacer push al repositorio.
+
+
+    Clone
+    	Es clonar una hacer una copia de un repositorio tanto remoto como local.
+    	Se usa para tener repositorio distribuido o compartido remotamente o hacer una copia del repositorio.
+
+    Branch
+    	Es una rama del repositorio.
+    	Se usa para hacer otra linea de versiones en caso de que se quiera probar una nueva caracteristica o se quiera seguir otro proceso y depues regresar a la rama principal.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
